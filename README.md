@@ -2,10 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Zaffari
-- 🌱 I’m currently learning about everything
-- :computer: I’m looking to learn Dart
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Front-End
+- 💻 Programming languages: Java Script, Java, Dart
