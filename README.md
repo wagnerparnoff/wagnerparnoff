@@ -2,4 +2,4 @@
 
 
 - 🔭 I’m currently working on personal projects
-- 💻 Programming languages: JavaScript, Java, Dart
+- 💻 Programming languages: **JavaScript, Java, Dart**
