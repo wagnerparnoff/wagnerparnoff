@@ -7,6 +7,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerparnoff&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerparnoff&layout=donut&theme=dark)](https://github.com/wagnerparnoff/github-readme-stats)
 
+[You can check some progress on my roadmaps here](https://api.roadmap.sh/v1-badge/tall/64bb35178a29ad56faa1e54b?variant=dark)
+
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wagnerparnoff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
