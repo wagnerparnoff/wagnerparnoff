@@ -5,7 +5,7 @@
 
 <div>
   <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerparnoff&layout=donut&theme=dark)](https://github.com/wagnerparnoff/github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerparnoff&layout=donut&theme=dark)](https://github.com/wagnerparnoff/github-readme-stats" />
 </div>
 
 <div>
