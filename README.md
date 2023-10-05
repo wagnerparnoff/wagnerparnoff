@@ -3,9 +3,10 @@
 - 🔭 I’m currently working like Full Stack developer (on professional life and side projects).
 - 💻 Programming languages: JavaScript, Java, PHP
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerparnoff&layout=donut&theme=dark)](https://github.com/wagnerparnoff/github-readme-stats)
+<div>
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerparnoff&layout=donut&theme=dark)](https://github.com/wagnerparnoff/github-readme-stats)
+</div>
 
 <div>
 <a href="https://instagram.com/wagnerparnoff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
