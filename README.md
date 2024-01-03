@@ -4,7 +4,6 @@
 - 💻 Programming languages: JavaScript, Java, PHP
 
 <div>
-  <img align="left" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="float: left; margin-right: 10px;" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerparnoff&layout=donut&theme=dark" style="float: left; margin-right: 10px;" />
 </div>
 
