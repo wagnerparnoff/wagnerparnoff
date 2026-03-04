@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wagner</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wagnerparnoff" alt="wagnerparnoff" /></a> </p>
-
 - 💬 Ask me about **react,vuejs,docker,java**
 
 - 📫 How to reach me **wagnerparnoffpereira@gmail.com**
