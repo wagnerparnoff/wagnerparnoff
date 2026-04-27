@@ -56,15 +56,3 @@ Full Stack Engineer with 8+ years building scalable web and mobile applications.
 ### Featured project
 
 ---
-
-### Work highlights
-
-| Period | Company | Role |
-|--------|---------|------|
-| 2024 – 2025 | Gendo | Full Stack Engineer — sales automation, Pipedrive integrations, SPA optimization |
-| 2024 | Quality Digital | Full Stack Engineer — VTEX IO, GraphQL, FastShop e-commerce |
-| 2019 – 2024 | Grupo Zaffari | Full Stack Developer — e-commerce, internal tools, CI/CD, Docker |
-| 2017 – 2019 | ADP | Data Integration Developer — ETL, Data Warehouse, payroll systems |
-| 2015 – 2017 | LAD / PUCRS | Full Stack Engineer — cloud testing platform, OpenStack, Android automation |
-
----
