@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer · Web & Mobile · E-commerce & SaaS</h3>
 
 <p align="center">
-  <a href="https://wagnerparnoff.dev" target="_blank">wagnerparnoff.dev</a> ·
+  <a href="https://wagnerparnoff.is-a.dev" target="_blank">wagnerparnoff.dev</a> ·
   <a href="mailto:wagnerparnoffpereira@gmail.com">wagnerparnoffpereira@gmail.com</a> ·
   <a href="https://linkedin.com/in/wagnerparnoff" target="_blank">LinkedIn</a>
 </p>
